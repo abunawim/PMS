@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## PHONEBOOK MNAGMENT SYSTEM
 
-You can use the [editor on GitHub](https://github.com/tamimxb/PMS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project can store your Name,Phonenumber and Address and more if you want,its own recordfile called "phonebook.txt"(default).You can change the name of the recoedfile anytime if you want. 
 
 ### Markdown
 
