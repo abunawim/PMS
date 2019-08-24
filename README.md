@@ -7,9 +7,11 @@ This project can store your Name,Phonenumber and Address and more if you want,it
 Using this application is very easy.Thers total 4 Function in the application.
 
 ```markdown
-# Header 1
-## Header 2
-### Header 3
+
+ 1. CREATE RECORD FILE
+ 2. NEW ENTRY
+ 3. VIEW ENTRY
+ 4. DELETE ENTRY
 
 - Bulleted
 - List
