@@ -25,13 +25,18 @@ entry() < == > This function used to scan user input and save all information to
 ```markdown
 color() < == > This function change console background and text. 
 ```
-```markdown
 DOS command Used to create and delete external record file called phonebook.txt
+```markdown
+All DOS command executed under proccess.h > system("") Built in Function.
+```
 ```markdown
 type nul > phonebook.txt/rec/xml/html whatever extention you want.
 ```
 ```markdown
 del /Q *.txt/rec/xml/html used to delete existing record file.
+```
+```markdown
+start notepad phonebook.txt == > this command will show you the txt based database.
 ```
 ```markdown
 FILE handling used in this programme to handle external database.
