@@ -12,19 +12,9 @@ Using this application is very easy.Thers total 4 Function in the application.
  2. NEW ENTRY
  3. VIEW ENTRY
  4. DELETE ENTRY
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ 
+ simply you need to press 1-4 then you will understand what to do next.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
