@@ -41,6 +41,12 @@ start notepad phonebook.txt == > this command will show you the txt based databa
 ```markdown
 FILE handling used in this programme to handle external database.
 ```
+### APPLICATION ICON
+```markdown
+pms.res file created for application icon.
+
+RESOURSE : pms.ico
+```
 
 
 
