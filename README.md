@@ -23,4 +23,6 @@ http://www.codeblocks.org/
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Abdulla Al Shahid
+ContactNo: +8801811218207
+Email : shahidabdulla.aas@gmail.com
