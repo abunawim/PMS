@@ -55,9 +55,12 @@ RESOURSE : pms.ico
 CODE::BLOCKS 17.12
 http://www.codeblocks.org/
 
-### Support or Contact
+### Project By
 ```markdown
 Abdulla Al Shahid
+ID : 191002118
+Azizul Hakim Anik
+ID : 191002282
 ContactNo: +8801811218207
 Email : shahidabdulla.aas@gmail.com
 ```
