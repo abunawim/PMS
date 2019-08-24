@@ -2,13 +2,11 @@
 
 This project can store your Name,Phonenumber and Address and more if you want,its own recordfile called "phonebook.txt"(default).You can change the name of the recoedfile anytime if you want. 
 
-### Markdown
+### HOW TO USE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Using this application is very easy.Thers total 4 Function in the application.
 
 ```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
