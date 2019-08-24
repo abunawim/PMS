@@ -21,9 +21,10 @@ menu() < == > This funtion Used to call the main menu in the application.
 ```
 ```markdown
 entry() < == > This function used to scan user input and save all information to the external database.
-c
+```
 ```markdown
 color() < == > This function change console background and text. 
+```
 ```markdown
 DOS command Used to create and delete external record file called phonebook.txt
 ```markdown
