@@ -15,6 +15,28 @@ Using this application is very easy.Thers total 4 Function in the application.
  
  simply you need to press 1-4 then you will understand what to do next.
 ```
+### About in MAIN_PROGRAMME Function
+```markdown
+menu() < == > This funtion Used to call the main menu in the application.
+```
+```markdown
+entry() < == > This function used to scan user input and save all information to the external database.
+c
+```markdown
+color() < == > This function change console background and text. 
+```markdown
+DOS command Used to create and delete external record file called phonebook.txt
+```markdown
+type nul > phonebook.txt/rec/xml/html whatever extention you want.
+```
+```markdown
+del /Q *.txt/rec/xml/html used to delete existing record file.
+```
+```markdown
+FILE handling used in this programme to handle external database.
+```
+
+
 
 ### Compiler Used
 
